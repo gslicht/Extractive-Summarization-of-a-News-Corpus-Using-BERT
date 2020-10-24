@@ -9,9 +9,9 @@ The Cornell Newsroom database was used with articles filtered for extractive sum
 The repository has the following components:
 
 1. requirements.txt
-2. Codebase
-  .1 Data Wrangling
-  .2 Data Exploration
-  .3 Machine Learning Implementation
-  .4 Results 
+2. Codebase <br />
+  .1 Data Wrangling <br />
+  .2 Data Exploration <br />
+  .3 Machine Learning Implementation <br />
+  .4 Results <br /> 
 3. Final report (pdf)
